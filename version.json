@@ -1,5 +1,6 @@
 {
   "versionCode": 2,
   "versionName": "v1.1",
-  "description": "• New Bot AI Level added!\n• Fixed Friend Mode lag.\n• UI Improvements."
+  "description": "● Dynamic APK Overwrite Added\n● Fixed Clear Data Reset Bug\n● Fixed System App Version Info\n● Improved Offline Error Texts",
+  "apkUrl": "https://github.com/tzcraft2026-hub/TZ-Chess-Pro-Updates/raw/refs/heads/main/TZ_Chess_Pro_v1.1.apk"
 }
